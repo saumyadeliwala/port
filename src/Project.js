@@ -46,8 +46,8 @@ const Project = ({ menuIsActive }) => {
                             </p>
                             <p2>Reactjs CSS ROUTER
                                 <p3>
-                                    <a href=""><IoOpenOutline /></a>
-                                    <a href=""><FiGithub /></a>
+                                    <a href="https://open-in-app-task-v2-by-saumyadeliwala.vercel.app/upload"><IoOpenOutline /></a>
+                                    <a href="https://github.com/saumyadeliwala/Excel-File-Reader-App-v2"><FiGithub /></a>
                                 </p3>
                             </p2>
 
