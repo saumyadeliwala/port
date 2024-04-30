@@ -23,7 +23,7 @@ const Project = ({ menuIsActive }) => {
                             </p>
                             <p2>Reactjs CSS API
                                 <p3>
-                                    <a href="https://crypto-tracker-best.vercel.app/"><IoOpenOutline /></a>
+                                    <a href="https://cryptic-tracker.vercel.app/"><IoOpenOutline /></a>
                                     <a href=""><FiGithub /></a>
                                 </p3>
                             </p2>
